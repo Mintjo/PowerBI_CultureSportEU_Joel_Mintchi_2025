@@ -1,37 +1,39 @@
 
-# 🇪🇺 Impact of Cultural and Sports Investments on Socio-Economic Development in Europe (2015–2021)
 
-**Author**: Joel Mintchi  
-**Technologies**: Python, Jupyter Notebook, Power BI, DAX  
-**Scope**: 19 European countries | 7 years | 20 socio-economic indicators
+# 🇪🇺 Impact des Investissements Sportifs et Culturels sur le Développement Socio-économique en Europe (2015–2021)
 
----
-
-## 🧩 Project Overview
-
-This project analyzes how public investments in culture and sports influence youth well-being across Europe. It follows a structured three-phase approach:
-
-1. **Data Collection & Preparation**  
-2. **Exploratory Analysis & Indicator Design**  
-3. **Interactive Visualization & Decision Insights**
-
-It combines international datasets, advanced data processing, and visual storytelling to support evidence-based policymaking.
+**Auteur** : Joel Mintchi  
+**Technologies** : Python, Jupyter Notebook, Power BI, DAX  
+**Période étudiée** : 2015–2021  
+**Pays couverts** : 19 pays européens  
+**Objectif** : Évaluer l’impact des dépenses publiques en culture et sport sur le bien-être socio-économique des jeunes
 
 ---
 
-## 📁 Repository Structure
+## 🧩 Contexte
+
+Ce projet s’inscrit dans une démarche analytique complète en trois étapes :  
+1. **Collecte & préparation des données**  
+2. **Exploration & analyse statistique**  
+3. **Visualisation & production d’insights décisionnels**
+
+Il mobilise des sources internationales, des techniques de traitement de données avancées et une narration visuelle rigoureuse pour éclairer les politiques publiques européennes.
+
+---
+
+## 📁 Structure du dépôt
 
 ```
 CultureSportImpactEU/
-├── data/                      # Raw and cleaned datasets
-│   ├── raw/                  # Original sources
-│   └── processed/            # Final consolidated dataset
-├── notebooks/                # Python scripts
-│   ├── 01_data_collection.ipynb
-│   └── 02_exploratory_analysis.ipynb
-├── dashboard/                # Power BI file (.pbix)
-├── docs/                     # Report, annexes, documentation
-│   └── synthesis_report.pdf
+├── data/                      # Données brutes et nettoyées
+│   ├── raw/                  # Sources originales
+│   └── processed/            # Dataset consolidé
+├── notebooks/                # Scripts Python
+│   ├── 01_collecte.ipynb     # Tâche 1 : collecte & nettoyage
+│   └── 02_analyse.ipynb      # Tâche 2 : exploration & indicateurs
+├── dashboard/                # Fichier Power BI (.pbix)
+├── docs/                     # Rapport, annexes, documentation
+│   └── rapport_synthese.pdf
 ├── README.md
 ├── LICENSE
 └── .gitignore
@@ -39,65 +41,65 @@ CultureSportImpactEU/
 
 ---
 
-## 🧪 Task 1: Data Collection & Preparation
+## 🧪 Tâche 1 : Collecte & Préparation des Données
 
-### 🎯 Objective
-Build a consolidated dataset from diverse sources, ready for analysis.
+### 🎯 Objectif
+Consolider un dataset multi-sources prêt à l’analyse.
 
-### 🔍 Methodology
-- Identify reliable sources: international databases, open data portals, public reports
-- Collect data via download, scraping, and APIs
-- Harmonize formats: units, time periods, geographic granularity
-- Merge datasets into a single structured file
+### 🔍 Méthodologie
+- Identification de sources variées : bases internationales, open data, rapports publics
+- Collecte via téléchargement, scraping, API
+- Harmonisation des formats : unités, périodes, géographies
+- Fusion des jeux de données dans un fichier unique
 
-### 📚 Sample Data Sources
-- **Demographic**: [WorldPop](https://hub.worldpop.org), [UN Population](https://population.un.org/wpp)
-- **Economic**: [IMF](https://data.imf.org), [OECD](https://www.oecd.org/en/data.html)
-- **Social**: [WHO](https://www.who.int/data/gho), [UNDP](https://hdr.undp.org/data-center)
-- **Culture/Sport**: Eurostat COFOG, FIFA Rankings
-
----
-
-## 📊 Task 2: Exploration & Analysis
-
-### 🎯 Objective
-Transform the dataset into a rich analytical foundation.
-
-### 🔍 Methodology
-- Descriptive analysis: historical trends and spatial dynamics
-- Derived indicators:
-  - Annual growth rates
-  - Youth population ratios
-  - Composite indices: Wellbeing Index, Sport Culture Index
-- Anomaly detection: countries with high investment but low impact
-- Aggregations by region and normalization per capita
-
-### 📁 Deliverables
-- Enriched dataset (`processed/enriched_dataset.csv`)
-- Analysis notebook (`notebooks/02_exploratory_analysis.ipynb`)
-- Methodology documentation (`docs/anomalies_methodology.md`)
+### 📚 Exemples de sources utilisées
+- **Démographiques** : [WorldPop](https://hub.worldpop.org), [UN Population](https://population.un.org/wpp)
+- **Économiques** : [IMF](https://data.imf.org), [OECD](https://www.oecd.org/en/data.html)
+- **Sociales** : [WHO](https://www.who.int/data/gho), [UNDP](https://hdr.undp.org/data-center)
+- **Culture/Sport** : Eurostat COFOG, FIFA Rankings
 
 ---
 
-## 📈 Task 3: Visualization & Insights with Power BI
+## 📊 Tâche 2 : Exploration & Analyse
 
-### 🎯 Objective
-Design an interactive dashboard that supports strategic decision-making.
+### 🎯 Objectif
+Transformer les données consolidées en support analytique riche et pertinent.
 
-### 🧠 Dashboard Structure
-- **Page 1**: Overview (KPI cards, choropleth map, top/bottom countries)
-- **Page 2**: Temporal evolution (stacked areas, growth maps)
-- **Page 3**: Comparative analysis (animated scatter, radar chart, normalized bars)
-- **Page 4**: Insights & Actions (anomaly table, waterfall chart, correlation matrix)
+### 🔍 Méthodologie
+- Analyse descriptive : tendances historiques et spatiales
+- Création d’indicateurs dérivés :
+  - Taux de croissance annuelle
+  - Ratio population jeune
+  - Indices composites : Wellbeing Index, Sport Culture Index
+- Détection d’anomalies : pays sous-performants malgré investissements élevés
+- Agrégations spatiales (Est/Ouest, régions) et normalisation par habitant
 
-### 🧪 Interactive Features
-- Dynamic filters: year, region, sector
-- Visual segments: country typologies (leaders, efficient, critical)
-- Storytelling: each chart answers a strategic question
+### 📁 Livrables
+- Dataset enrichi (`processed/enriched_dataset.csv`)
+- Notebook d’analyse (`notebooks/02_analyse.ipynb`)
+- Documentation des choix méthodologiques (`docs/anomalies_methodo.md`)
 
-### 📁 Deliverables
-- Power BI file: `dashboard/CultureSportImpactEU.pbix`
-- Synthesis report: `docs/synthesis_report.pdf`
+---
+
+## 📈 Tâche 3 : Visualisation & Insights avec Power BI
+
+### 🎯 Objectif
+Créer un tableau de bord interactif permettant aux décideurs d’identifier des leviers d’action.
+
+### 🧠 Contenu du Dashboard
+- **Page 1** : Vue d’ensemble (KPI, carte choroplèthe, top/bottom pays)
+- **Page 2** : Évolution temporelle (aires empilées, cartes de croissance)
+- **Page 3** : Analyse comparative (scatter animé, radar chart, barres normalisées)
+- **Page 4** : Insights & Actions (table anomalies, cascade, corrélations)
+
+### 🧪 Fonctionnalités interactives
+- Filtres dynamiques : années, régions, secteurs
+- Segments visuels : typologie des pays (leaders, efficients, critiques)
+- Narration visuelle : chaque graphique répond à une question stratégique
+
+### 📁 Livrables
+- Fichier Power BI : `dashboard/CultureSportImpactEU.pbix`
+- Rapport synthèse : `docs/rapport_synthese.pdf`
 
 ---
 
@@ -105,5 +107,5 @@ Design an interactive dashboard that supports strategic decision-making.
 
 **Joel Mintchi**  
 📧 Mintchijo@email.com  
-📍 Cotonou, Benin
+📍 Cotonou, Bénin
 
