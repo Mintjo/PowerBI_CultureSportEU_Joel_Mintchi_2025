@@ -1,6 +1,6 @@
 
 
-# 🇪🇺 Impact des Investissements Sportifs et Culturels sur le Développement Socio-économique en Europe (2015–2021)
+# Impact des Investissements Sportifs et Culturels sur le Développement Socio-économique en Europe (2015–2021)
 
 **Auteur** : Joel Mintchi  
 **Technologies** : Python, Jupyter Notebook, Power BI, DAX  
