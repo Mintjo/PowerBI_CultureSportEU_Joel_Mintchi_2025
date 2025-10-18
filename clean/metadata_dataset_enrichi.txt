@@ -1,0 +1,26 @@
+
+MÉTADONNÉES DU DATASET ENRICHI
+Fichier: dataset_final_enrichi_complet.csv
+Date de création: 2025-09-28 18:10:05
+Description: Dataset consolidé et enrichi avec indicateurs calculés pour 19 pays européens (2015-2021)
+
+STRUCTURE:
+- Pays: 19 pays
+- Période: 2015-2021
+- Observations: 133
+- Variables: 39
+
+VARIABLES CALCULÉES INCLUES:
+1. Taux de croissance annuels (PIB, dépenses culturelles, points FIFA)
+2. Ratios (dépenses publiques/privées, dépenses culturelles/PIB)
+3. Indices composites (développement régional, sport-culture, bien-être jeunesse)
+4. Catégories (revenu, performance football, dépenses culturelles, région)
+
+UTILISATION RECOMMANDÉE:
+- Analyses temporelles: Utiliser les taux de croissance
+- Comparaisons spatiales: Utiliser les indices composites
+- Segmentation: Utiliser les catégories
+- Tableaux de bord: Utiliser les agrégations pré-calculées
+
+NOTE:
+Tous les indicateurs sont normalisés et prêts pour l'analyse dans Power BI.

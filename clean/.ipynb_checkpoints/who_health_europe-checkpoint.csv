@@ -1,0 +1,1201 @@
+country_name;iso3;year;sex;life_expectancy
+Albania;ALB;2015;Both sexes;83.4
+Albania;ALB;2015;Female;81.2
+Albania;ALB;2015;Male;74.7
+Albania;ALB;2016;Both sexes;83.8
+Albania;ALB;2016;Female;81.1
+Albania;ALB;2016;Male;75.1
+Albania;ALB;2017;Both sexes;84.2
+Albania;ALB;2017;Female;81.2
+Albania;ALB;2017;Male;75.7
+Albania;ALB;2018;Both sexes;83.9
+Albania;ALB;2018;Female;81.1
+Albania;ALB;2018;Male;74.8
+Albania;ALB;2019;Both sexes;84.1
+Albania;ALB;2019;Female;80.9
+Albania;ALB;2019;Male;75.4
+Albania;ALB;2020;Both sexes;84.1
+Albania;ALB;2020;Female;81.8
+Albania;ALB;2020;Male;75.9
+Albania;ALB;2021;Both sexes;83.8
+Albania;ALB;2021;Female;81.5
+Albania;ALB;2021;Male;75.3
+Albania;ALB;2022;Both sexes;84.6
+Albania;ALB;2022;Female;81.7
+Albania;ALB;2022;Male;75.8
+Albania;ALB;2023;Both sexes;84.3
+Albania;ALB;2023;Female;81.7
+Albania;ALB;2023;Male;75.8
+Albania;ALB;2024;Both sexes;84.2
+Albania;ALB;2024;Female;81.9
+Albania;ALB;2024;Male;75.5
+Austria;AUT;2015;Both sexes;78.0
+Austria;AUT;2015;Female;80.5
+Austria;AUT;2015;Male;78.7
+Austria;AUT;2016;Both sexes;77.9
+Austria;AUT;2016;Female;80.4
+Austria;AUT;2016;Male;78.5
+Austria;AUT;2017;Both sexes;77.8
+Austria;AUT;2017;Female;80.4
+Austria;AUT;2017;Male;78.5
+Austria;AUT;2018;Both sexes;78.7
+Austria;AUT;2018;Female;79.9
+Austria;AUT;2018;Male;79.0
+Austria;AUT;2019;Both sexes;78.9
+Austria;AUT;2019;Female;80.0
+Austria;AUT;2019;Male;79.2
+Austria;AUT;2020;Both sexes;78.4
+Austria;AUT;2020;Female;80.4
+Austria;AUT;2020;Male;79.1
+Austria;AUT;2021;Both sexes;78.3
+Austria;AUT;2021;Female;80.2
+Austria;AUT;2021;Male;79.1
+Austria;AUT;2022;Both sexes;78.9
+Austria;AUT;2022;Female;80.6
+Austria;AUT;2022;Male;79.9
+Austria;AUT;2023;Both sexes;78.8
+Austria;AUT;2023;Female;80.8
+Austria;AUT;2023;Male;79.8
+Austria;AUT;2024;Both sexes;78.7
+Austria;AUT;2024;Female;80.6
+Austria;AUT;2024;Male;79.3
+Belarus;BLR;2015;Both sexes;79.9
+Belarus;BLR;2015;Female;85.1
+Belarus;BLR;2015;Male;76.2
+Belarus;BLR;2016;Both sexes;80.1
+Belarus;BLR;2016;Female;85.7
+Belarus;BLR;2016;Male;75.9
+Belarus;BLR;2017;Both sexes;79.7
+Belarus;BLR;2017;Female;85.4
+Belarus;BLR;2017;Male;75.7
+Belarus;BLR;2018;Both sexes;80.0
+Belarus;BLR;2018;Female;86.2
+Belarus;BLR;2018;Male;76.6
+Belarus;BLR;2019;Both sexes;79.8
+Belarus;BLR;2019;Female;85.5
+Belarus;BLR;2019;Male;76.3
+Belarus;BLR;2020;Both sexes;80.5
+Belarus;BLR;2020;Female;86.0
+Belarus;BLR;2020;Male;76.2
+Belarus;BLR;2021;Both sexes;80.6
+Belarus;BLR;2021;Female;86.5
+Belarus;BLR;2021;Male;76.8
+Belarus;BLR;2022;Both sexes;80.8
+Belarus;BLR;2022;Female;86.8
+Belarus;BLR;2022;Male;76.3
+Belarus;BLR;2023;Both sexes;80.2
+Belarus;BLR;2023;Female;86.8
+Belarus;BLR;2023;Male;77.2
+Belarus;BLR;2024;Both sexes;80.2
+Belarus;BLR;2024;Female;86.6
+Belarus;BLR;2024;Male;76.9
+Belgium;BEL;2015;Both sexes;78.7
+Belgium;BEL;2015;Female;86.3
+Belgium;BEL;2015;Male;81.0
+Belgium;BEL;2016;Both sexes;78.6
+Belgium;BEL;2016;Female;85.6
+Belgium;BEL;2016;Male;80.9
+Belgium;BEL;2017;Both sexes;79.4
+Belgium;BEL;2017;Female;86.2
+Belgium;BEL;2017;Male;81.2
+Belgium;BEL;2018;Both sexes;79.2
+Belgium;BEL;2018;Female;86.0
+Belgium;BEL;2018;Male;81.0
+Belgium;BEL;2019;Both sexes;79.3
+Belgium;BEL;2019;Female;86.5
+Belgium;BEL;2019;Male;81.1
+Belgium;BEL;2020;Both sexes;79.5
+Belgium;BEL;2020;Female;86.7
+Belgium;BEL;2020;Male;81.1
+Belgium;BEL;2021;Both sexes;79.3
+Belgium;BEL;2021;Female;86.6
+Belgium;BEL;2021;Male;81.7
+Belgium;BEL;2022;Both sexes;79.3
+Belgium;BEL;2022;Female;87.0
+Belgium;BEL;2022;Male;81.2
+Belgium;BEL;2023;Both sexes;79.7
+Belgium;BEL;2023;Female;87.0
+Belgium;BEL;2023;Male;81.1
+Belgium;BEL;2024;Both sexes;79.5
+Belgium;BEL;2024;Female;86.3
+Belgium;BEL;2024;Male;81.5
+Bosnia and Herzegovina;BIH;2015;Both sexes;79.9
+Bosnia and Herzegovina;BIH;2015;Female;84.4
+Bosnia and Herzegovina;BIH;2015;Male;80.9
+Bosnia and Herzegovina;BIH;2016;Both sexes;80.3
+Bosnia and Herzegovina;BIH;2016;Female;84.5
+Bosnia and Herzegovina;BIH;2016;Male;81.2
+Bosnia and Herzegovina;BIH;2017;Both sexes;79.5
+Bosnia and Herzegovina;BIH;2017;Female;84.5
+Bosnia and Herzegovina;BIH;2017;Male;81.7
+Bosnia and Herzegovina;BIH;2018;Both sexes;80.5
+Bosnia and Herzegovina;BIH;2018;Female;84.9
+Bosnia and Herzegovina;BIH;2018;Male;81.6
+Bosnia and Herzegovina;BIH;2019;Both sexes;79.8
+Bosnia and Herzegovina;BIH;2019;Female;84.7
+Bosnia and Herzegovina;BIH;2019;Male;81.3
+Bosnia and Herzegovina;BIH;2020;Both sexes;80.4
+Bosnia and Herzegovina;BIH;2020;Female;85.1
+Bosnia and Herzegovina;BIH;2020;Male;82.2
+Bosnia and Herzegovina;BIH;2021;Both sexes;80.5
+Bosnia and Herzegovina;BIH;2021;Female;84.4
+Bosnia and Herzegovina;BIH;2021;Male;82.2
+Bosnia and Herzegovina;BIH;2022;Both sexes;80.3
+Bosnia and Herzegovina;BIH;2022;Female;84.7
+Bosnia and Herzegovina;BIH;2022;Male;81.8
+Bosnia and Herzegovina;BIH;2023;Both sexes;80.4
+Bosnia and Herzegovina;BIH;2023;Female;85.1
+Bosnia and Herzegovina;BIH;2023;Male;82.4
+Bosnia and Herzegovina;BIH;2024;Both sexes;81.1
+Bosnia and Herzegovina;BIH;2024;Female;84.8
+Bosnia and Herzegovina;BIH;2024;Male;81.9
+Bulgaria;BGR;2015;Both sexes;79.2
+Bulgaria;BGR;2015;Female;85.7
+Bulgaria;BGR;2015;Male;77.0
+Bulgaria;BGR;2016;Both sexes;78.4
+Bulgaria;BGR;2016;Female;85.6
+Bulgaria;BGR;2016;Male;76.7
+Bulgaria;BGR;2017;Both sexes;79.3
+Bulgaria;BGR;2017;Female;85.3
+Bulgaria;BGR;2017;Male;76.8
+Bulgaria;BGR;2018;Both sexes;79.1
+Bulgaria;BGR;2018;Female;85.8
+Bulgaria;BGR;2018;Male;77.6
+Bulgaria;BGR;2019;Both sexes;79.1
+Bulgaria;BGR;2019;Female;85.6
+Bulgaria;BGR;2019;Male;77.9
+Bulgaria;BGR;2020;Both sexes;79.4
+Bulgaria;BGR;2020;Female;85.7
+Bulgaria;BGR;2020;Male;77.8
+Bulgaria;BGR;2021;Both sexes;79.3
+Bulgaria;BGR;2021;Female;85.6
+Bulgaria;BGR;2021;Male;78.0
+Bulgaria;BGR;2022;Both sexes;79.1
+Bulgaria;BGR;2022;Female;86.4
+Bulgaria;BGR;2022;Male;77.3
+Bulgaria;BGR;2023;Both sexes;79.6
+Bulgaria;BGR;2023;Female;86.6
+Bulgaria;BGR;2023;Male;78.0
+Bulgaria;BGR;2024;Both sexes;80.0
+Bulgaria;BGR;2024;Female;86.1
+Bulgaria;BGR;2024;Male;77.7
+Croatia;HRV;2015;Both sexes;83.4
+Croatia;HRV;2015;Female;82.1
+Croatia;HRV;2015;Male;77.0
+Croatia;HRV;2016;Both sexes;83.7
+Croatia;HRV;2016;Female;82.5
+Croatia;HRV;2016;Male;77.2
+Croatia;HRV;2017;Both sexes;83.8
+Croatia;HRV;2017;Female;82.4
+Croatia;HRV;2017;Male;76.7
+Croatia;HRV;2018;Both sexes;83.7
+Croatia;HRV;2018;Female;81.9
+Croatia;HRV;2018;Male;77.1
+Croatia;HRV;2019;Both sexes;84.0
+Croatia;HRV;2019;Female;82.5
+Croatia;HRV;2019;Male;77.5
+Croatia;HRV;2020;Both sexes;84.7
+Croatia;HRV;2020;Female;82.6
+Croatia;HRV;2020;Male;76.9
+Croatia;HRV;2021;Both sexes;84.8
+Croatia;HRV;2021;Female;83.2
+Croatia;HRV;2021;Male;77.6
+Croatia;HRV;2022;Both sexes;84.9
+Croatia;HRV;2022;Female;83.1
+Croatia;HRV;2022;Male;77.5
+Croatia;HRV;2023;Both sexes;84.6
+Croatia;HRV;2023;Female;82.5
+Croatia;HRV;2023;Male;77.5
+Croatia;HRV;2024;Both sexes;84.7
+Croatia;HRV;2024;Female;83.0
+Croatia;HRV;2024;Male;77.6
+Cyprus;CYP;2015;Both sexes;80.8
+Cyprus;CYP;2015;Female;85.1
+Cyprus;CYP;2015;Male;77.8
+Cyprus;CYP;2016;Both sexes;81.8
+Cyprus;CYP;2016;Female;84.8
+Cyprus;CYP;2016;Male;78.3
+Cyprus;CYP;2017;Both sexes;81.2
+Cyprus;CYP;2017;Female;85.2
+Cyprus;CYP;2017;Male;78.1
+Cyprus;CYP;2018;Both sexes;81.6
+Cyprus;CYP;2018;Female;85.6
+Cyprus;CYP;2018;Male;78.9
+Cyprus;CYP;2019;Both sexes;81.5
+Cyprus;CYP;2019;Female;85.0
+Cyprus;CYP;2019;Male;78.2
+Cyprus;CYP;2020;Both sexes;81.9
+Cyprus;CYP;2020;Female;85.7
+Cyprus;CYP;2020;Male;78.9
+Cyprus;CYP;2021;Both sexes;82.0
+Cyprus;CYP;2021;Female;86.1
+Cyprus;CYP;2021;Male;79.3
+Cyprus;CYP;2022;Both sexes;81.5
+Cyprus;CYP;2022;Female;85.7
+Cyprus;CYP;2022;Male;79.3
+Cyprus;CYP;2023;Both sexes;82.2
+Cyprus;CYP;2023;Female;85.7
+Cyprus;CYP;2023;Male;78.8
+Cyprus;CYP;2024;Both sexes;82.3
+Cyprus;CYP;2024;Female;86.2
+Cyprus;CYP;2024;Male;79.1
+Czechia;CZE;2015;Both sexes;78.2
+Czechia;CZE;2015;Female;87.0
+Czechia;CZE;2015;Male;80.5
+Czechia;CZE;2016;Both sexes;78.0
+Czechia;CZE;2016;Female;87.4
+Czechia;CZE;2016;Male;80.4
+Czechia;CZE;2017;Both sexes;78.0
+Czechia;CZE;2017;Female;87.4
+Czechia;CZE;2017;Male;80.9
+Czechia;CZE;2018;Both sexes;78.3
+Czechia;CZE;2018;Female;87.1
+Czechia;CZE;2018;Male;80.7
+Czechia;CZE;2019;Both sexes;77.9
+Czechia;CZE;2019;Female;86.9
+Czechia;CZE;2019;Male;81.0
+Czechia;CZE;2020;Both sexes;78.3
+Czechia;CZE;2020;Female;87.2
+Czechia;CZE;2020;Male;81.3
+Czechia;CZE;2021;Both sexes;78.8
+Czechia;CZE;2021;Female;87.8
+Czechia;CZE;2021;Male;81.3
+Czechia;CZE;2022;Both sexes;78.5
+Czechia;CZE;2022;Female;87.6
+Czechia;CZE;2022;Male;80.7
+Czechia;CZE;2023;Both sexes;79.2
+Czechia;CZE;2023;Female;87.3
+Czechia;CZE;2023;Male;81.5
+Czechia;CZE;2024;Both sexes;78.4
+Czechia;CZE;2024;Female;87.8
+Czechia;CZE;2024;Male;80.9
+Denmark;DNK;2015;Both sexes;82.2
+Denmark;DNK;2015;Female;82.4
+Denmark;DNK;2015;Male;76.7
+Denmark;DNK;2016;Both sexes;82.3
+Denmark;DNK;2016;Female;82.0
+Denmark;DNK;2016;Male;76.5
+Denmark;DNK;2017;Both sexes;82.4
+Denmark;DNK;2017;Female;82.2
+Denmark;DNK;2017;Male;76.3
+Denmark;DNK;2018;Both sexes;82.6
+Denmark;DNK;2018;Female;82.9
+Denmark;DNK;2018;Male;76.3
+Denmark;DNK;2019;Both sexes;82.2
+Denmark;DNK;2019;Female;82.9
+Denmark;DNK;2019;Male;77.2
+Denmark;DNK;2020;Both sexes;82.6
+Denmark;DNK;2020;Female;82.5
+Denmark;DNK;2020;Male;77.4
+Denmark;DNK;2021;Both sexes;82.5
+Denmark;DNK;2021;Female;83.3
+Denmark;DNK;2021;Male;76.7
+Denmark;DNK;2022;Both sexes;83.0
+Denmark;DNK;2022;Female;82.9
+Denmark;DNK;2022;Male;76.9
+Denmark;DNK;2023;Both sexes;82.3
+Denmark;DNK;2023;Female;82.6
+Denmark;DNK;2023;Male;76.9
+Denmark;DNK;2024;Both sexes;82.7
+Denmark;DNK;2024;Female;83.4
+Denmark;DNK;2024;Male;77.7
+Estonia;EST;2015;Both sexes;83.0
+Estonia;EST;2015;Female;83.5
+Estonia;EST;2015;Male;79.9
+Estonia;EST;2016;Both sexes;83.8
+Estonia;EST;2016;Female;83.1
+Estonia;EST;2016;Male;79.9
+Estonia;EST;2017;Both sexes;83.8
+Estonia;EST;2017;Female;83.8
+Estonia;EST;2017;Male;79.5
+Estonia;EST;2018;Both sexes;83.9
+Estonia;EST;2018;Female;83.9
+Estonia;EST;2018;Male;79.8
+Estonia;EST;2019;Both sexes;83.9
+Estonia;EST;2019;Female;84.1
+Estonia;EST;2019;Male;80.2
+Estonia;EST;2020;Both sexes;83.9
+Estonia;EST;2020;Female;83.5
+Estonia;EST;2020;Male;80.1
+Estonia;EST;2021;Both sexes;84.0
+Estonia;EST;2021;Female;83.7
+Estonia;EST;2021;Male;80.5
+Estonia;EST;2022;Both sexes;83.7
+Estonia;EST;2022;Female;84.2
+Estonia;EST;2022;Male;80.8
+Estonia;EST;2023;Both sexes;84.5
+Estonia;EST;2023;Female;84.2
+Estonia;EST;2023;Male;80.4
+Estonia;EST;2024;Both sexes;84.3
+Estonia;EST;2024;Female;84.0
+Estonia;EST;2024;Male;80.6
+Finland;FIN;2015;Both sexes;80.5
+Finland;FIN;2015;Female;80.6
+Finland;FIN;2015;Male;81.4
+Finland;FIN;2016;Both sexes;80.9
+Finland;FIN;2016;Female;80.6
+Finland;FIN;2016;Male;82.4
+Finland;FIN;2017;Both sexes;81.1
+Finland;FIN;2017;Female;80.2
+Finland;FIN;2017;Male;82.2
+Finland;FIN;2018;Both sexes;81.1
+Finland;FIN;2018;Female;80.8
+Finland;FIN;2018;Male;82.5
+Finland;FIN;2019;Both sexes;80.8
+Finland;FIN;2019;Female;81.1
+Finland;FIN;2019;Male;81.8
+Finland;FIN;2020;Both sexes;81.0
+Finland;FIN;2020;Female;81.1
+Finland;FIN;2020;Male;82.6
+Finland;FIN;2021;Both sexes;80.7
+Finland;FIN;2021;Female;80.4
+Finland;FIN;2021;Male;81.9
+Finland;FIN;2022;Both sexes;81.2
+Finland;FIN;2022;Female;81.1
+Finland;FIN;2022;Male;82.1
+Finland;FIN;2023;Both sexes;81.6
+Finland;FIN;2023;Female;81.2
+Finland;FIN;2023;Male;82.3
+Finland;FIN;2024;Both sexes;81.9
+Finland;FIN;2024;Female;81.1
+Finland;FIN;2024;Male;82.4
+France;FRA;2015;Both sexes;77.5
+France;FRA;2015;Female;80.9
+France;FRA;2015;Male;78.9
+France;FRA;2016;Both sexes;77.8
+France;FRA;2016;Female;81.6
+France;FRA;2016;Male;78.8
+France;FRA;2017;Both sexes;78.1
+France;FRA;2017;Female;81.2
+France;FRA;2017;Male;79.1
+France;FRA;2018;Both sexes;77.9
+France;FRA;2018;Female;81.8
+France;FRA;2018;Male;79.5
+France;FRA;2019;Both sexes;78.3
+France;FRA;2019;Female;81.4
+France;FRA;2019;Male;79.9
+France;FRA;2020;Both sexes;78.7
+France;FRA;2020;Female;81.7
+France;FRA;2020;Male;80.0
+France;FRA;2021;Both sexes;78.3
+France;FRA;2021;Female;81.5
+France;FRA;2021;Male;79.5
+France;FRA;2022;Both sexes;78.6
+France;FRA;2022;Female;82.3
+France;FRA;2022;Male;79.8
+France;FRA;2023;Both sexes;78.6
+France;FRA;2023;Female;82.0
+France;FRA;2023;Male;80.4
+France;FRA;2024;Both sexes;78.4
+France;FRA;2024;Female;81.6
+France;FRA;2024;Male;80.3
+Germany;DEU;2015;Both sexes;83.0
+Germany;DEU;2015;Female;82.2
+Germany;DEU;2015;Male;78.7
+Germany;DEU;2016;Both sexes;83.2
+Germany;DEU;2016;Female;82.3
+Germany;DEU;2016;Male;78.5
+Germany;DEU;2017;Both sexes;82.9
+Germany;DEU;2017;Female;82.4
+Germany;DEU;2017;Male;79.1
+Germany;DEU;2018;Both sexes;82.9
+Germany;DEU;2018;Female;81.8
+Germany;DEU;2018;Male;78.9
+Germany;DEU;2019;Both sexes;82.6
+Germany;DEU;2019;Female;81.9
+Germany;DEU;2019;Male;78.5
+Germany;DEU;2020;Both sexes;82.9
+Germany;DEU;2020;Female;82.7
+Germany;DEU;2020;Male;78.6
+Germany;DEU;2021;Both sexes;82.8
+Germany;DEU;2021;Female;82.3
+Germany;DEU;2021;Male;79.4
+Germany;DEU;2022;Both sexes;83.3
+Germany;DEU;2022;Female;82.2
+Germany;DEU;2022;Male;79.7
+Germany;DEU;2023;Both sexes;83.2
+Germany;DEU;2023;Female;82.9
+Germany;DEU;2023;Male;79.4
+Germany;DEU;2024;Both sexes;83.5
+Germany;DEU;2024;Female;82.3
+Germany;DEU;2024;Male;79.9
+Greece;GRC;2015;Both sexes;77.5
+Greece;GRC;2015;Female;83.6
+Greece;GRC;2015;Male;79.3
+Greece;GRC;2016;Both sexes;77.1
+Greece;GRC;2016;Female;84.1
+Greece;GRC;2016;Male;79.8
+Greece;GRC;2017;Both sexes;77.2
+Greece;GRC;2017;Female;84.3
+Greece;GRC;2017;Male;80.4
+Greece;GRC;2018;Both sexes;77.7
+Greece;GRC;2018;Female;84.6
+Greece;GRC;2018;Male;79.6
+Greece;GRC;2019;Both sexes;77.9
+Greece;GRC;2019;Female;84.4
+Greece;GRC;2019;Male;79.9
+Greece;GRC;2020;Both sexes;77.5
+Greece;GRC;2020;Female;84.4
+Greece;GRC;2020;Male;79.9
+Greece;GRC;2021;Both sexes;78.0
+Greece;GRC;2021;Female;84.6
+Greece;GRC;2021;Male;80.1
+Greece;GRC;2022;Both sexes;78.5
+Greece;GRC;2022;Female;84.2
+Greece;GRC;2022;Male;80.1
+Greece;GRC;2023;Both sexes;78.1
+Greece;GRC;2023;Female;85.1
+Greece;GRC;2023;Male;81.0
+Greece;GRC;2024;Both sexes;78.7
+Greece;GRC;2024;Female;84.3
+Greece;GRC;2024;Male;80.7
+Hungary;HUN;2015;Both sexes;83.1
+Hungary;HUN;2015;Female;86.2
+Hungary;HUN;2015;Male;81.9
+Hungary;HUN;2016;Both sexes;82.6
+Hungary;HUN;2016;Female;86.6
+Hungary;HUN;2016;Male;82.3
+Hungary;HUN;2017;Both sexes;82.6
+Hungary;HUN;2017;Female;86.0
+Hungary;HUN;2017;Male;81.8
+Hungary;HUN;2018;Both sexes;83.1
+Hungary;HUN;2018;Female;86.2
+Hungary;HUN;2018;Male;82.3
+Hungary;HUN;2019;Both sexes;83.4
+Hungary;HUN;2019;Female;86.4
+Hungary;HUN;2019;Male;82.6
+Hungary;HUN;2020;Both sexes;83.4
+Hungary;HUN;2020;Female;86.5
+Hungary;HUN;2020;Male;81.9
+Hungary;HUN;2021;Both sexes;83.5
+Hungary;HUN;2021;Female;87.4
+Hungary;HUN;2021;Male;82.6
+Hungary;HUN;2022;Both sexes;83.5
+Hungary;HUN;2022;Female;87.0
+Hungary;HUN;2022;Male;82.4
+Hungary;HUN;2023;Both sexes;83.2
+Hungary;HUN;2023;Female;87.4
+Hungary;HUN;2023;Male;82.8
+Hungary;HUN;2024;Both sexes;83.3
+Hungary;HUN;2024;Female;87.7
+Hungary;HUN;2024;Male;82.7
+Iceland;ISL;2015;Both sexes;82.1
+Iceland;ISL;2015;Female;80.6
+Iceland;ISL;2015;Male;78.1
+Iceland;ISL;2016;Both sexes;82.8
+Iceland;ISL;2016;Female;80.9
+Iceland;ISL;2016;Male;77.8
+Iceland;ISL;2017;Both sexes;82.3
+Iceland;ISL;2017;Female;81.6
+Iceland;ISL;2017;Male;78.2
+Iceland;ISL;2018;Both sexes;82.4
+Iceland;ISL;2018;Female;81.8
+Iceland;ISL;2018;Male;78.7
+Iceland;ISL;2019;Both sexes;83.2
+Iceland;ISL;2019;Female;81.6
+Iceland;ISL;2019;Male;78.7
+Iceland;ISL;2020;Both sexes;82.9
+Iceland;ISL;2020;Female;81.3
+Iceland;ISL;2020;Male;78.4
+Iceland;ISL;2021;Both sexes;82.8
+Iceland;ISL;2021;Female;81.4
+Iceland;ISL;2021;Male;78.8
+Iceland;ISL;2022;Both sexes;82.7
+Iceland;ISL;2022;Female;81.9
+Iceland;ISL;2022;Male;78.6
+Iceland;ISL;2023;Both sexes;83.2
+Iceland;ISL;2023;Female;81.4
+Iceland;ISL;2023;Male;79.2
+Iceland;ISL;2024;Both sexes;83.7
+Iceland;ISL;2024;Female;82.4
+Iceland;ISL;2024;Male;79.4
+Ireland;IRL;2015;Both sexes;79.4
+Ireland;IRL;2015;Female;81.7
+Ireland;IRL;2015;Male;77.1
+Ireland;IRL;2016;Both sexes;80.1
+Ireland;IRL;2016;Female;81.6
+Ireland;IRL;2016;Male;78.0
+Ireland;IRL;2017;Both sexes;79.9
+Ireland;IRL;2017;Female;82.0
+Ireland;IRL;2017;Male;78.1
+Ireland;IRL;2018;Both sexes;79.9
+Ireland;IRL;2018;Female;81.7
+Ireland;IRL;2018;Male;77.9
+Ireland;IRL;2019;Both sexes;80.6
+Ireland;IRL;2019;Female;82.5
+Ireland;IRL;2019;Male;78.1
+Ireland;IRL;2020;Both sexes;80.5
+Ireland;IRL;2020;Female;81.9
+Ireland;IRL;2020;Male;77.8
+Ireland;IRL;2021;Both sexes;80.5
+Ireland;IRL;2021;Female;82.2
+Ireland;IRL;2021;Male;77.8
+Ireland;IRL;2022;Both sexes;80.3
+Ireland;IRL;2022;Female;82.7
+Ireland;IRL;2022;Male;78.6
+Ireland;IRL;2023;Both sexes;81.0
+Ireland;IRL;2023;Female;82.8
+Ireland;IRL;2023;Male;78.1
+Ireland;IRL;2024;Both sexes;80.6
+Ireland;IRL;2024;Female;82.8
+Ireland;IRL;2024;Male;78.6
+Italy;ITA;2015;Both sexes;82.1
+Italy;ITA;2015;Female;83.7
+Italy;ITA;2015;Male;77.5
+Italy;ITA;2016;Both sexes;82.0
+Italy;ITA;2016;Female;84.3
+Italy;ITA;2016;Male;78.1
+Italy;ITA;2017;Both sexes;82.1
+Italy;ITA;2017;Female;84.5
+Italy;ITA;2017;Male;77.8
+Italy;ITA;2018;Both sexes;82.0
+Italy;ITA;2018;Female;84.3
+Italy;ITA;2018;Male;78.2
+Italy;ITA;2019;Both sexes;82.1
+Italy;ITA;2019;Female;84.6
+Italy;ITA;2019;Male;77.6
+Italy;ITA;2020;Both sexes;82.0
+Italy;ITA;2020;Female;84.2
+Italy;ITA;2020;Male;78.4
+Italy;ITA;2021;Both sexes;82.3
+Italy;ITA;2021;Female;84.7
+Italy;ITA;2021;Male;78.5
+Italy;ITA;2022;Both sexes;82.3
+Italy;ITA;2022;Female;85.0
+Italy;ITA;2022;Male;78.3
+Italy;ITA;2023;Both sexes;82.2
+Italy;ITA;2023;Female;84.9
+Italy;ITA;2023;Male;78.8
+Italy;ITA;2024;Both sexes;82.3
+Italy;ITA;2024;Female;85.2
+Italy;ITA;2024;Male;78.7
+Latvia;LVA;2015;Both sexes;82.4
+Latvia;LVA;2015;Female;84.4
+Latvia;LVA;2015;Male;78.1
+Latvia;LVA;2016;Both sexes;82.4
+Latvia;LVA;2016;Female;84.3
+Latvia;LVA;2016;Male;78.1
+Latvia;LVA;2017;Both sexes;82.0
+Latvia;LVA;2017;Female;83.7
+Latvia;LVA;2017;Male;77.8
+Latvia;LVA;2018;Both sexes;82.5
+Latvia;LVA;2018;Female;84.3
+Latvia;LVA;2018;Male;78.6
+Latvia;LVA;2019;Both sexes;82.3
+Latvia;LVA;2019;Female;84.4
+Latvia;LVA;2019;Male;78.4
+Latvia;LVA;2020;Both sexes;82.8
+Latvia;LVA;2020;Female;84.7
+Latvia;LVA;2020;Male;78.3
+Latvia;LVA;2021;Both sexes;82.9
+Latvia;LVA;2021;Female;84.6
+Latvia;LVA;2021;Male;78.4
+Latvia;LVA;2022;Both sexes;82.9
+Latvia;LVA;2022;Female;84.4
+Latvia;LVA;2022;Male;78.7
+Latvia;LVA;2023;Both sexes;83.2
+Latvia;LVA;2023;Female;84.3
+Latvia;LVA;2023;Male;79.1
+Latvia;LVA;2024;Both sexes;82.6
+Latvia;LVA;2024;Female;84.7
+Latvia;LVA;2024;Male;78.5
+Lithuania;LTU;2015;Both sexes;77.7
+Lithuania;LTU;2015;Female;80.9
+Lithuania;LTU;2015;Male;80.3
+Lithuania;LTU;2016;Both sexes;77.4
+Lithuania;LTU;2016;Female;81.3
+Lithuania;LTU;2016;Male;80.7
+Lithuania;LTU;2017;Both sexes;77.6
+Lithuania;LTU;2017;Female;81.5
+Lithuania;LTU;2017;Male;80.7
+Lithuania;LTU;2018;Both sexes;77.5
+Lithuania;LTU;2018;Female;81.9
+Lithuania;LTU;2018;Male;80.8
+Lithuania;LTU;2019;Both sexes;77.9
+Lithuania;LTU;2019;Female;81.7
+Lithuania;LTU;2019;Male;80.7
+Lithuania;LTU;2020;Both sexes;77.9
+Lithuania;LTU;2020;Female;81.9
+Lithuania;LTU;2020;Male;81.5
+Lithuania;LTU;2021;Both sexes;78.1
+Lithuania;LTU;2021;Female;81.8
+Lithuania;LTU;2021;Male;81.2
+Lithuania;LTU;2022;Both sexes;77.8
+Lithuania;LTU;2022;Female;82.4
+Lithuania;LTU;2022;Male;81.1
+Lithuania;LTU;2023;Both sexes;78.0
+Lithuania;LTU;2023;Female;81.6
+Lithuania;LTU;2023;Male;81.4
+Lithuania;LTU;2024;Both sexes;78.1
+Lithuania;LTU;2024;Female;82.3
+Lithuania;LTU;2024;Male;81.1
+Luxembourg;LUX;2015;Both sexes;81.4
+Luxembourg;LUX;2015;Female;81.5
+Luxembourg;LUX;2015;Male;81.0
+Luxembourg;LUX;2016;Both sexes;81.8
+Luxembourg;LUX;2016;Female;81.5
+Luxembourg;LUX;2016;Male;81.4
+Luxembourg;LUX;2017;Both sexes;81.6
+Luxembourg;LUX;2017;Female;81.1
+Luxembourg;LUX;2017;Male;81.5
+Luxembourg;LUX;2018;Both sexes;81.6
+Luxembourg;LUX;2018;Female;81.9
+Luxembourg;LUX;2018;Male;81.9
+Luxembourg;LUX;2019;Both sexes;82.2
+Luxembourg;LUX;2019;Female;81.5
+Luxembourg;LUX;2019;Male;81.1
+Luxembourg;LUX;2020;Both sexes;82.2
+Luxembourg;LUX;2020;Female;81.4
+Luxembourg;LUX;2020;Male;81.4
+Luxembourg;LUX;2021;Both sexes;82.4
+Luxembourg;LUX;2021;Female;82.1
+Luxembourg;LUX;2021;Male;81.5
+Luxembourg;LUX;2022;Both sexes;81.7
+Luxembourg;LUX;2022;Female;81.6
+Luxembourg;LUX;2022;Male;82.2
+Luxembourg;LUX;2023;Both sexes;81.9
+Luxembourg;LUX;2023;Female;81.9
+Luxembourg;LUX;2023;Male;81.9
+Luxembourg;LUX;2024;Both sexes;82.3
+Luxembourg;LUX;2024;Female;82.4
+Luxembourg;LUX;2024;Male;81.9
+Malta;MLT;2015;Both sexes;77.3
+Malta;MLT;2015;Female;83.8
+Malta;MLT;2015;Male;80.9
+Malta;MLT;2016;Both sexes;77.1
+Malta;MLT;2016;Female;84.8
+Malta;MLT;2016;Male;81.2
+Malta;MLT;2017;Both sexes;77.9
+Malta;MLT;2017;Female;84.7
+Malta;MLT;2017;Male;81.5
+Malta;MLT;2018;Both sexes;77.6
+Malta;MLT;2018;Female;84.1
+Malta;MLT;2018;Male;81.9
+Malta;MLT;2019;Both sexes;77.6
+Malta;MLT;2019;Female;84.6
+Malta;MLT;2019;Male;81.9
+Malta;MLT;2020;Both sexes;78.1
+Malta;MLT;2020;Female;84.5
+Malta;MLT;2020;Male;81.7
+Malta;MLT;2021;Both sexes;77.6
+Malta;MLT;2021;Female;85.3
+Malta;MLT;2021;Male;81.6
+Malta;MLT;2022;Both sexes;78.3
+Malta;MLT;2022;Female;85.2
+Malta;MLT;2022;Male;82.2
+Malta;MLT;2023;Both sexes;78.5
+Malta;MLT;2023;Female;85.1
+Malta;MLT;2023;Male;81.5
+Malta;MLT;2024;Both sexes;78.2
+Malta;MLT;2024;Female;84.8
+Malta;MLT;2024;Male;82.4
+Moldova;MDA;2015;Both sexes;83.0
+Moldova;MDA;2015;Female;84.9
+Moldova;MDA;2015;Male;79.1
+Moldova;MDA;2016;Both sexes;83.2
+Moldova;MDA;2016;Female;84.7
+Moldova;MDA;2016;Male;78.8
+Moldova;MDA;2017;Both sexes;84.2
+Moldova;MDA;2017;Female;85.0
+Moldova;MDA;2017;Male;78.3
+Moldova;MDA;2018;Both sexes;83.5
+Moldova;MDA;2018;Female;85.3
+Moldova;MDA;2018;Male;78.9
+Moldova;MDA;2019;Both sexes;83.8
+Moldova;MDA;2019;Female;85.2
+Moldova;MDA;2019;Male;79.1
+Moldova;MDA;2020;Both sexes;83.8
+Moldova;MDA;2020;Female;85.3
+Moldova;MDA;2020;Male;78.7
+Moldova;MDA;2021;Both sexes;84.4
+Moldova;MDA;2021;Female;85.8
+Moldova;MDA;2021;Male;79.4
+Moldova;MDA;2022;Both sexes;84.2
+Moldova;MDA;2022;Female;85.8
+Moldova;MDA;2022;Male;79.4
+Moldova;MDA;2023;Both sexes;84.8
+Moldova;MDA;2023;Female;85.5
+Moldova;MDA;2023;Male;79.3
+Moldova;MDA;2024;Both sexes;84.6
+Moldova;MDA;2024;Female;85.5
+Moldova;MDA;2024;Male;79.8
+Montenegro;MNE;2015;Both sexes;80.6
+Montenegro;MNE;2015;Female;86.3
+Montenegro;MNE;2015;Male;76.2
+Montenegro;MNE;2016;Both sexes;80.4
+Montenegro;MNE;2016;Female;86.4
+Montenegro;MNE;2016;Male;76.2
+Montenegro;MNE;2017;Both sexes;80.2
+Montenegro;MNE;2017;Female;86.5
+Montenegro;MNE;2017;Male;77.2
+Montenegro;MNE;2018;Both sexes;80.1
+Montenegro;MNE;2018;Female;85.9
+Montenegro;MNE;2018;Male;76.4
+Montenegro;MNE;2019;Both sexes;80.3
+Montenegro;MNE;2019;Female;86.0
+Montenegro;MNE;2019;Male;76.9
+Montenegro;MNE;2020;Both sexes;80.8
+Montenegro;MNE;2020;Female;86.8
+Montenegro;MNE;2020;Male;77.5
+Montenegro;MNE;2021;Both sexes;81.3
+Montenegro;MNE;2021;Female;86.1
+Montenegro;MNE;2021;Male;76.8
+Montenegro;MNE;2022;Both sexes;80.9
+Montenegro;MNE;2022;Female;86.7
+Montenegro;MNE;2022;Male;77.1
+Montenegro;MNE;2023;Both sexes;81.2
+Montenegro;MNE;2023;Female;86.3
+Montenegro;MNE;2023;Male;76.9
+Montenegro;MNE;2024;Both sexes;81.5
+Montenegro;MNE;2024;Female;86.7
+Montenegro;MNE;2024;Male;77.3
+Netherlands;NLD;2015;Both sexes;80.6
+Netherlands;NLD;2015;Female;80.3
+Netherlands;NLD;2015;Male;78.9
+Netherlands;NLD;2016;Both sexes;80.6
+Netherlands;NLD;2016;Female;80.8
+Netherlands;NLD;2016;Male;79.2
+Netherlands;NLD;2017;Both sexes;80.4
+Netherlands;NLD;2017;Female;80.7
+Netherlands;NLD;2017;Male;79.0
+Netherlands;NLD;2018;Both sexes;81.1
+Netherlands;NLD;2018;Female;80.9
+Netherlands;NLD;2018;Male;79.0
+Netherlands;NLD;2019;Both sexes;81.4
+Netherlands;NLD;2019;Female;81.2
+Netherlands;NLD;2019;Male;79.8
+Netherlands;NLD;2020;Both sexes;81.0
+Netherlands;NLD;2020;Female;80.7
+Netherlands;NLD;2020;Male;79.3
+Netherlands;NLD;2021;Both sexes;81.0
+Netherlands;NLD;2021;Female;81.5
+Netherlands;NLD;2021;Male;79.8
+Netherlands;NLD;2022;Both sexes;81.5
+Netherlands;NLD;2022;Female;81.2
+Netherlands;NLD;2022;Male;80.0
+Netherlands;NLD;2023;Both sexes;81.6
+Netherlands;NLD;2023;Female;81.2
+Netherlands;NLD;2023;Male;80.4
+Netherlands;NLD;2024;Both sexes;81.5
+Netherlands;NLD;2024;Female;81.9
+Netherlands;NLD;2024;Male;79.6
+North Macedonia;MKD;2015;Both sexes;83.0
+North Macedonia;MKD;2015;Female;83.1
+North Macedonia;MKD;2015;Male;75.7
+North Macedonia;MKD;2016;Both sexes;83.3
+North Macedonia;MKD;2016;Female;83.4
+North Macedonia;MKD;2016;Male;74.9
+North Macedonia;MKD;2017;Both sexes;82.8
+North Macedonia;MKD;2017;Female;82.7
+North Macedonia;MKD;2017;Male;75.2
+North Macedonia;MKD;2018;Both sexes;83.2
+North Macedonia;MKD;2018;Female;82.7
+North Macedonia;MKD;2018;Male;75.6
+North Macedonia;MKD;2019;Both sexes;83.1
+North Macedonia;MKD;2019;Female;83.3
+North Macedonia;MKD;2019;Male;75.4
+North Macedonia;MKD;2020;Both sexes;83.4
+North Macedonia;MKD;2020;Female;82.9
+North Macedonia;MKD;2020;Male;75.5
+North Macedonia;MKD;2021;Both sexes;83.1
+North Macedonia;MKD;2021;Female;83.3
+North Macedonia;MKD;2021;Male;75.8
+North Macedonia;MKD;2022;Both sexes;83.1
+North Macedonia;MKD;2022;Female;83.4
+North Macedonia;MKD;2022;Male;75.7
+North Macedonia;MKD;2023;Both sexes;83.1
+North Macedonia;MKD;2023;Female;84.0
+North Macedonia;MKD;2023;Male;75.8
+North Macedonia;MKD;2024;Both sexes;84.1
+North Macedonia;MKD;2024;Female;83.7
+North Macedonia;MKD;2024;Male;76.3
+Norway;NOR;2015;Both sexes;81.2
+Norway;NOR;2015;Female;86.6
+Norway;NOR;2015;Male;75.4
+Norway;NOR;2016;Both sexes;80.8
+Norway;NOR;2016;Female;86.6
+Norway;NOR;2016;Male;75.3
+Norway;NOR;2017;Both sexes;81.4
+Norway;NOR;2017;Female;87.1
+Norway;NOR;2017;Male;75.3
+Norway;NOR;2018;Both sexes;81.4
+Norway;NOR;2018;Female;86.8
+Norway;NOR;2018;Male;75.8
+Norway;NOR;2019;Both sexes;81.1
+Norway;NOR;2019;Female;87.6
+Norway;NOR;2019;Male;75.8
+Norway;NOR;2020;Both sexes;81.5
+Norway;NOR;2020;Female;87.5
+Norway;NOR;2020;Male;76.2
+Norway;NOR;2021;Both sexes;81.2
+Norway;NOR;2021;Female;86.9
+Norway;NOR;2021;Male;75.7
+Norway;NOR;2022;Both sexes;81.5
+Norway;NOR;2022;Female;87.1
+Norway;NOR;2022;Male;76.0
+Norway;NOR;2023;Both sexes;81.9
+Norway;NOR;2023;Female;87.7
+Norway;NOR;2023;Male;75.8
+Norway;NOR;2024;Both sexes;81.9
+Norway;NOR;2024;Female;87.5
+Norway;NOR;2024;Male;75.9
+Poland;POL;2015;Both sexes;81.9
+Poland;POL;2015;Female;84.3
+Poland;POL;2015;Male;77.1
+Poland;POL;2016;Both sexes;82.4
+Poland;POL;2016;Female;84.7
+Poland;POL;2016;Male;78.0
+Poland;POL;2017;Both sexes;82.3
+Poland;POL;2017;Female;84.7
+Poland;POL;2017;Male;77.7
+Poland;POL;2018;Both sexes;82.8
+Poland;POL;2018;Female;84.9
+Poland;POL;2018;Male;78.1
+Poland;POL;2019;Both sexes;82.7
+Poland;POL;2019;Female;85.1
+Poland;POL;2019;Male;78.0
+Poland;POL;2020;Both sexes;82.1
+Poland;POL;2020;Female;85.1
+Poland;POL;2020;Male;77.9
+Poland;POL;2021;Both sexes;82.6
+Poland;POL;2021;Female;85.0
+Poland;POL;2021;Male;78.2
+Poland;POL;2022;Both sexes;82.5
+Poland;POL;2022;Female;85.3
+Poland;POL;2022;Male;78.5
+Poland;POL;2023;Both sexes;82.8
+Poland;POL;2023;Female;84.8
+Poland;POL;2023;Male;77.9
+Poland;POL;2024;Both sexes;83.0
+Poland;POL;2024;Female;85.5
+Poland;POL;2024;Male;78.3
+Portugal;PRT;2015;Both sexes;81.2
+Portugal;PRT;2015;Female;85.1
+Portugal;PRT;2015;Male;77.9
+Portugal;PRT;2016;Both sexes;81.1
+Portugal;PRT;2016;Female;85.2
+Portugal;PRT;2016;Male;78.0
+Portugal;PRT;2017;Both sexes;81.2
+Portugal;PRT;2017;Female;85.4
+Portugal;PRT;2017;Male;78.0
+Portugal;PRT;2018;Both sexes;81.6
+Portugal;PRT;2018;Female;84.7
+Portugal;PRT;2018;Male;77.3
+Portugal;PRT;2019;Both sexes;81.3
+Portugal;PRT;2019;Female;85.4
+Portugal;PRT;2019;Male;77.9
+Portugal;PRT;2020;Both sexes;81.4
+Portugal;PRT;2020;Female;85.1
+Portugal;PRT;2020;Male;78.3
+Portugal;PRT;2021;Both sexes;81.8
+Portugal;PRT;2021;Female;85.0
+Portugal;PRT;2021;Male;78.1
+Portugal;PRT;2022;Both sexes;81.4
+Portugal;PRT;2022;Female;85.4
+Portugal;PRT;2022;Male;78.2
+Portugal;PRT;2023;Both sexes;82.0
+Portugal;PRT;2023;Female;85.6
+Portugal;PRT;2023;Male;78.2
+Portugal;PRT;2024;Both sexes;81.6
+Portugal;PRT;2024;Female;85.8
+Portugal;PRT;2024;Male;78.7
+Romania;ROU;2015;Both sexes;78.7
+Romania;ROU;2015;Female;85.9
+Romania;ROU;2015;Male;76.3
+Romania;ROU;2016;Both sexes;78.9
+Romania;ROU;2016;Female;85.4
+Romania;ROU;2016;Male;76.3
+Romania;ROU;2017;Both sexes;78.7
+Romania;ROU;2017;Female;86.1
+Romania;ROU;2017;Male;76.2
+Romania;ROU;2018;Both sexes;79.2
+Romania;ROU;2018;Female;85.6
+Romania;ROU;2018;Male;76.4
+Romania;ROU;2019;Both sexes;78.7
+Romania;ROU;2019;Female;85.7
+Romania;ROU;2019;Male;76.5
+Romania;ROU;2020;Both sexes;79.5
+Romania;ROU;2020;Female;85.6
+Romania;ROU;2020;Male;76.9
+Romania;ROU;2021;Both sexes;79.1
+Romania;ROU;2021;Female;86.0
+Romania;ROU;2021;Male;77.2
+Romania;ROU;2022;Both sexes;79.7
+Romania;ROU;2022;Female;85.9
+Romania;ROU;2022;Male;77.2
+Romania;ROU;2023;Both sexes;79.0
+Romania;ROU;2023;Female;85.8
+Romania;ROU;2023;Male;77.6
+Romania;ROU;2024;Both sexes;79.7
+Romania;ROU;2024;Female;86.1
+Romania;ROU;2024;Male;77.2
+Russia;RUS;2015;Both sexes;80.4
+Russia;RUS;2015;Female;82.3
+Russia;RUS;2015;Male;75.1
+Russia;RUS;2016;Both sexes;80.3
+Russia;RUS;2016;Female;82.5
+Russia;RUS;2016;Male;76.1
+Russia;RUS;2017;Both sexes;80.5
+Russia;RUS;2017;Female;82.6
+Russia;RUS;2017;Male;76.0
+Russia;RUS;2018;Both sexes;80.6
+Russia;RUS;2018;Female;82.1
+Russia;RUS;2018;Male;75.5
+Russia;RUS;2019;Both sexes;80.3
+Russia;RUS;2019;Female;82.2
+Russia;RUS;2019;Male;75.6
+Russia;RUS;2020;Both sexes;80.9
+Russia;RUS;2020;Female;82.4
+Russia;RUS;2020;Male;76.3
+Russia;RUS;2021;Both sexes;80.8
+Russia;RUS;2021;Female;83.1
+Russia;RUS;2021;Male;76.5
+Russia;RUS;2022;Both sexes;81.0
+Russia;RUS;2022;Female;82.5
+Russia;RUS;2022;Male;75.8
+Russia;RUS;2023;Both sexes;81.0
+Russia;RUS;2023;Female;82.8
+Russia;RUS;2023;Male;76.2
+Russia;RUS;2024;Both sexes;81.4
+Russia;RUS;2024;Female;83.4
+Russia;RUS;2024;Male;76.5
+Serbia;SRB;2015;Both sexes;76.6
+Serbia;SRB;2015;Female;83.2
+Serbia;SRB;2015;Male;80.1
+Serbia;SRB;2016;Both sexes;77.3
+Serbia;SRB;2016;Female;83.9
+Serbia;SRB;2016;Male;79.9
+Serbia;SRB;2017;Both sexes;76.8
+Serbia;SRB;2017;Female;83.5
+Serbia;SRB;2017;Male;80.2
+Serbia;SRB;2018;Both sexes;77.1
+Serbia;SRB;2018;Female;83.8
+Serbia;SRB;2018;Male;80.6
+Serbia;SRB;2019;Both sexes;77.6
+Serbia;SRB;2019;Female;83.8
+Serbia;SRB;2019;Male;80.4
+Serbia;SRB;2020;Both sexes;77.8
+Serbia;SRB;2020;Female;84.3
+Serbia;SRB;2020;Male;80.6
+Serbia;SRB;2021;Both sexes;78.0
+Serbia;SRB;2021;Female;83.7
+Serbia;SRB;2021;Male;80.4
+Serbia;SRB;2022;Both sexes;77.7
+Serbia;SRB;2022;Female;84.5
+Serbia;SRB;2022;Male;80.9
+Serbia;SRB;2023;Both sexes;77.9
+Serbia;SRB;2023;Female;84.1
+Serbia;SRB;2023;Male;80.8
+Serbia;SRB;2024;Both sexes;78.1
+Serbia;SRB;2024;Female;84.7
+Serbia;SRB;2024;Male;80.6
+Slovakia;SVK;2015;Both sexes;81.1
+Slovakia;SVK;2015;Female;86.7
+Slovakia;SVK;2015;Male;74.9
+Slovakia;SVK;2016;Both sexes;80.6
+Slovakia;SVK;2016;Female;86.4
+Slovakia;SVK;2016;Male;75.1
+Slovakia;SVK;2017;Both sexes;80.7
+Slovakia;SVK;2017;Female;87.0
+Slovakia;SVK;2017;Male;75.2
+Slovakia;SVK;2018;Both sexes;80.9
+Slovakia;SVK;2018;Female;87.1
+Slovakia;SVK;2018;Male;75.4
+Slovakia;SVK;2019;Both sexes;81.1
+Slovakia;SVK;2019;Female;86.7
+Slovakia;SVK;2019;Male;76.2
+Slovakia;SVK;2020;Both sexes;81.4
+Slovakia;SVK;2020;Female;87.1
+Slovakia;SVK;2020;Male;75.7
+Slovakia;SVK;2021;Both sexes;81.2
+Slovakia;SVK;2021;Female;87.3
+Slovakia;SVK;2021;Male;75.6
+Slovakia;SVK;2022;Both sexes;81.1
+Slovakia;SVK;2022;Female;87.4
+Slovakia;SVK;2022;Male;75.9
+Slovakia;SVK;2023;Both sexes;81.4
+Slovakia;SVK;2023;Female;87.5
+Slovakia;SVK;2023;Male;76.3
+Slovakia;SVK;2024;Both sexes;82.1
+Slovakia;SVK;2024;Female;87.9
+Slovakia;SVK;2024;Male;76.4
+Slovenia;SVN;2015;Both sexes;78.4
+Slovenia;SVN;2015;Female;82.0
+Slovenia;SVN;2015;Male;79.1
+Slovenia;SVN;2016;Both sexes;78.6
+Slovenia;SVN;2016;Female;81.7
+Slovenia;SVN;2016;Male;79.3
+Slovenia;SVN;2017;Both sexes;79.4
+Slovenia;SVN;2017;Female;82.5
+Slovenia;SVN;2017;Male;79.1
+Slovenia;SVN;2018;Both sexes;79.0
+Slovenia;SVN;2018;Female;82.7
+Slovenia;SVN;2018;Male;79.6
+Slovenia;SVN;2019;Both sexes;78.7
+Slovenia;SVN;2019;Female;82.4
+Slovenia;SVN;2019;Male;79.8
+Slovenia;SVN;2020;Both sexes;79.4
+Slovenia;SVN;2020;Female;82.7
+Slovenia;SVN;2020;Male;79.9
+Slovenia;SVN;2021;Both sexes;79.5
+Slovenia;SVN;2021;Female;82.4
+Slovenia;SVN;2021;Male;79.9
+Slovenia;SVN;2022;Both sexes;79.7
+Slovenia;SVN;2022;Female;82.7
+Slovenia;SVN;2022;Male;80.2
+Slovenia;SVN;2023;Both sexes;79.1
+Slovenia;SVN;2023;Female;83.3
+Slovenia;SVN;2023;Male;80.4
+Slovenia;SVN;2024;Both sexes;79.4
+Slovenia;SVN;2024;Female;82.9
+Slovenia;SVN;2024;Male;80.1
+Spain;ESP;2015;Both sexes;84.0
+Spain;ESP;2015;Female;85.6
+Spain;ESP;2015;Male;80.2
+Spain;ESP;2016;Both sexes;84.3
+Spain;ESP;2016;Female;86.4
+Spain;ESP;2016;Male;80.6
+Spain;ESP;2017;Both sexes;84.4
+Spain;ESP;2017;Female;86.4
+Spain;ESP;2017;Male;80.8
+Spain;ESP;2018;Both sexes;83.7
+Spain;ESP;2018;Female;86.7
+Spain;ESP;2018;Male;80.7
+Spain;ESP;2019;Both sexes;84.4
+Spain;ESP;2019;Female;86.2
+Spain;ESP;2019;Male;80.3
+Spain;ESP;2020;Both sexes;84.0
+Spain;ESP;2020;Female;86.3
+Spain;ESP;2020;Male;80.8
+Spain;ESP;2021;Both sexes;84.7
+Spain;ESP;2021;Female;86.8
+Spain;ESP;2021;Male;80.8
+Spain;ESP;2022;Both sexes;84.9
+Spain;ESP;2022;Female;86.4
+Spain;ESP;2022;Male;81.5
+Spain;ESP;2023;Both sexes;84.9
+Spain;ESP;2023;Female;86.6
+Spain;ESP;2023;Male;81.1
+Spain;ESP;2024;Both sexes;84.9
+Spain;ESP;2024;Female;86.9
+Spain;ESP;2024;Male;81.3
+Sweden;SWE;2015;Both sexes;78.9
+Sweden;SWE;2015;Female;82.7
+Sweden;SWE;2015;Male;80.0
+Sweden;SWE;2016;Both sexes;79.0
+Sweden;SWE;2016;Female;83.0
+Sweden;SWE;2016;Male;80.1
+Sweden;SWE;2017;Both sexes;78.6
+Sweden;SWE;2017;Female;83.1
+Sweden;SWE;2017;Male;80.5
+Sweden;SWE;2018;Both sexes;78.6
+Sweden;SWE;2018;Female;83.6
+Sweden;SWE;2018;Male;80.7
+Sweden;SWE;2019;Both sexes;78.9
+Sweden;SWE;2019;Female;83.5
+Sweden;SWE;2019;Male;80.0
+Sweden;SWE;2020;Both sexes;78.7
+Sweden;SWE;2020;Female;84.2
+Sweden;SWE;2020;Male;80.7
+Sweden;SWE;2021;Both sexes;79.6
+Sweden;SWE;2021;Female;83.4
+Sweden;SWE;2021;Male;80.5
+Sweden;SWE;2022;Both sexes;79.2
+Sweden;SWE;2022;Female;84.1
+Sweden;SWE;2022;Male;81.1
+Sweden;SWE;2023;Both sexes;79.7
+Sweden;SWE;2023;Female;84.3
+Sweden;SWE;2023;Male;81.0
+Sweden;SWE;2024;Both sexes;79.5
+Sweden;SWE;2024;Female;84.5
+Sweden;SWE;2024;Male;81.3
+Switzerland;CHE;2015;Both sexes;81.9
+Switzerland;CHE;2015;Female;82.2
+Switzerland;CHE;2015;Male;75.7
+Switzerland;CHE;2016;Both sexes;82.0
+Switzerland;CHE;2016;Female;82.3
+Switzerland;CHE;2016;Male;75.5
+Switzerland;CHE;2017;Both sexes;82.4
+Switzerland;CHE;2017;Female;82.2
+Switzerland;CHE;2017;Male;75.7
+Switzerland;CHE;2018;Both sexes;81.8
+Switzerland;CHE;2018;Female;82.0
+Switzerland;CHE;2018;Male;75.4
+Switzerland;CHE;2019;Both sexes;82.1
+Switzerland;CHE;2019;Female;82.7
+Switzerland;CHE;2019;Male;76.1
+Switzerland;CHE;2020;Both sexes;82.4
+Switzerland;CHE;2020;Female;82.0
+Switzerland;CHE;2020;Male;75.7
+Switzerland;CHE;2021;Both sexes;82.8
+Switzerland;CHE;2021;Female;82.2
+Switzerland;CHE;2021;Male;75.6
+Switzerland;CHE;2022;Both sexes;82.4
+Switzerland;CHE;2022;Female;82.9
+Switzerland;CHE;2022;Male;75.9
+Switzerland;CHE;2023;Both sexes;82.5
+Switzerland;CHE;2023;Female;82.3
+Switzerland;CHE;2023;Male;76.5
+Switzerland;CHE;2024;Both sexes;83.2
+Switzerland;CHE;2024;Female;82.9
+Switzerland;CHE;2024;Male;75.8
+Ukraine;UKR;2015;Both sexes;83.4
+Ukraine;UKR;2015;Female;81.7
+Ukraine;UKR;2015;Male;79.0
+Ukraine;UKR;2016;Both sexes;83.8
+Ukraine;UKR;2016;Female;81.5
+Ukraine;UKR;2016;Male;78.6
+Ukraine;UKR;2017;Both sexes;83.1
+Ukraine;UKR;2017;Female;81.4
+Ukraine;UKR;2017;Male;78.6
+Ukraine;UKR;2018;Both sexes;83.2
+Ukraine;UKR;2018;Female;81.8
+Ukraine;UKR;2018;Male;78.6
+Ukraine;UKR;2019;Both sexes;84.2
+Ukraine;UKR;2019;Female;82.1
+Ukraine;UKR;2019;Male;79.0
+Ukraine;UKR;2020;Both sexes;83.5
+Ukraine;UKR;2020;Female;81.7
+Ukraine;UKR;2020;Male;79.1
+Ukraine;UKR;2021;Both sexes;83.5
+Ukraine;UKR;2021;Female;82.3
+Ukraine;UKR;2021;Male;79.1
+Ukraine;UKR;2022;Both sexes;83.7
+Ukraine;UKR;2022;Female;82.4
+Ukraine;UKR;2022;Male;79.2
+Ukraine;UKR;2023;Both sexes;84.0
+Ukraine;UKR;2023;Female;81.8
+Ukraine;UKR;2023;Male;79.8
+Ukraine;UKR;2024;Both sexes;84.2
+Ukraine;UKR;2024;Female;82.2
+Ukraine;UKR;2024;Male;79.6
+United Kingdom;GBR;2015;Both sexes;83.7
+United Kingdom;GBR;2015;Female;86.4
+United Kingdom;GBR;2015;Male;75.6
+United Kingdom;GBR;2016;Both sexes;83.2
+United Kingdom;GBR;2016;Female;87.0
+United Kingdom;GBR;2016;Male;75.9
+United Kingdom;GBR;2017;Both sexes;83.6
+United Kingdom;GBR;2017;Female;86.9
+United Kingdom;GBR;2017;Male;76.3
+United Kingdom;GBR;2018;Both sexes;83.8
+United Kingdom;GBR;2018;Female;87.4
+United Kingdom;GBR;2018;Male;76.4
+United Kingdom;GBR;2019;Both sexes;83.7
+United Kingdom;GBR;2019;Female;87.1
+United Kingdom;GBR;2019;Male;76.8
+United Kingdom;GBR;2020;Both sexes;84.0
+United Kingdom;GBR;2020;Female;87.5
+United Kingdom;GBR;2020;Male;76.6
+United Kingdom;GBR;2021;Both sexes;84.3
+United Kingdom;GBR;2021;Female;87.6
+United Kingdom;GBR;2021;Male;76.8
+United Kingdom;GBR;2022;Both sexes;84.2
+United Kingdom;GBR;2022;Female;87.9
+United Kingdom;GBR;2022;Male;76.6
+United Kingdom;GBR;2023;Both sexes;83.9
+United Kingdom;GBR;2023;Female;87.4
+United Kingdom;GBR;2023;Male;76.6
+United Kingdom;GBR;2024;Both sexes;83.9
+United Kingdom;GBR;2024;Female;87.7
+United Kingdom;GBR;2024;Male;76.6

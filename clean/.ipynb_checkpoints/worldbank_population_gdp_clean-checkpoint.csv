@@ -1,0 +1,401 @@
+country_name,iso3,year,gdp_per_capita_usd
+Albania,AL,2015,3982
+Albania,AL,2016,4168
+Albania,AL,2017,4614
+Albania,AL,2018,5365
+Albania,AL,2019,5460
+Albania,AL,2020,5371
+Albania,AL,2021,6413
+Albania,AL,2022,6846
+Albania,AL,2023,8575
+Albania,AL,2024,10012
+Austria,AT,2015,43915
+Austria,AT,2016,45061
+Austria,AT,2017,47164
+Austria,AT,2018,51194
+Austria,AT,2019,49886
+Austria,AT,2020,48716
+Austria,AT,2021,53649
+Austria,AT,2022,52177
+Austria,AT,2023,56034
+Austria,AT,2024,56833
+Belarus,BY,2015,5967
+Belarus,BY,2016,5040
+Belarus,BY,2017,5786
+Belarus,BY,2018,6360
+Belarus,BY,2019,6838
+Belarus,BY,2020,6543
+Belarus,BY,2021,7490
+Belarus,BY,2022,7995
+Belarus,BY,2023,7897
+Belarus,BY,2024,8317
+Belgium,BE,2015,40894
+Belgium,BE,2016,41855
+Belgium,BE,2017,44035
+Belgium,BE,2018,47487
+Belgium,BE,2019,46717
+Belgium,BE,2020,45906
+Belgium,BE,2021,51658
+Belgium,BE,2022,50822
+Belgium,BE,2023,54690
+Belgium,BE,2024,55955
+Bosnia and Herzegovina,BA,2015,4662
+Bosnia and Herzegovina,BA,2016,4929
+Bosnia and Herzegovina,BA,2017,5345
+Bosnia and Herzegovina,BA,2018,6048
+Bosnia and Herzegovina,BA,2019,6122
+Bosnia and Herzegovina,BA,2020,6130
+Bosnia and Herzegovina,BA,2021,7295
+Bosnia and Herzegovina,BA,2022,7656
+Bosnia and Herzegovina,BA,2023,8663
+Bosnia and Herzegovina,BA,2024,8957
+Bulgaria,BG,2015,7269
+Bulgaria,BG,2016,7822
+Bulgaria,BG,2017,8697
+Bulgaria,BG,2018,9872
+Bulgaria,BG,2019,10373
+Bulgaria,BG,2020,10770
+Bulgaria,BG,2021,12972
+Bulgaria,BG,2022,14000
+Bulgaria,BG,2023,15884
+Bulgaria,BG,2024,17412
+Croatia,HR,2015,12285
+Croatia,HR,2016,12821
+Croatia,HR,2017,13903
+Croatia,HR,2018,15460
+Croatia,HR,2019,15564
+Croatia,HR,2020,14808
+Croatia,HR,2021,17790
+Croatia,HR,2022,18466
+Croatia,HR,2023,21865
+Croatia,HR,2024,23931
+Cyprus,CY,2015,23487
+Cyprus,CY,2016,24715
+Cyprus,CY,2017,26697
+Cyprus,CY,2018,29600
+Cyprus,CY,2019,29703
+Cyprus,CY,2020,28649
+Cyprus,CY,2021,33734
+Cyprus,CY,2022,33894
+Cyprus,CY,2023,36551
+Cyprus,CY,2024,38654
+Czechia,CZ,2015,17932
+Czechia,CZ,2016,18754
+Czechia,CZ,2017,20913
+Czechia,CZ,2018,23706
+Czechia,CZ,2019,24063
+Czechia,CZ,2020,23473
+Czechia,CZ,2021,27696
+Czechia,CZ,2022,28282
+Czechia,CZ,2023,31591
+Czechia,CZ,2024,31707
+Denmark,DK,2015,53094
+Denmark,DK,2016,54501
+Denmark,DK,2017,57522
+Denmark,DK,2018,61325
+Denmark,DK,2019,59404
+Denmark,DK,2020,60985
+Denmark,DK,2021,69728
+Denmark,DK,2022,68091
+Denmark,DK,2023,68454
+Denmark,DK,2024,71852
+Estonia,EE,2015,17722
+Estonia,EE,2016,18666
+Estonia,EE,2017,20852
+Estonia,EE,2018,23618
+Estonia,EE,2019,24021
+Estonia,EE,2020,23934
+Estonia,EE,2021,27954
+Estonia,EE,2022,28451
+Estonia,EE,2023,30133
+Estonia,EE,2024,31170
+Finland,FI,2015,42560
+Finland,FI,2016,43451
+Finland,FI,2017,46085
+Finland,FI,2018,49654
+Finland,FI,2019,48358
+Finland,FI,2020,48829
+Finland,FI,2021,53099
+Finland,FI,2022,50441
+Finland,FI,2023,52822
+Finland,FI,2024,53189
+France,FR,2015,36702
+France,FR,2016,37024
+France,FR,2017,38687
+France,FR,2018,41418
+France,FR,2019,40408
+France,FR,2020,39170
+France,FR,2021,43725
+France,FR,2022,41083
+France,FR,2023,44691
+France,FR,2024,46150
+Germany,DE,2015,41911
+Germany,DE,2016,42961
+Germany,DE,2017,45527
+Germany,DE,2018,48875
+Germany,DE,2019,47624
+Germany,DE,2020,47380
+Germany,DE,2021,52266
+Germany,DE,2022,49686
+Germany,DE,2023,53940
+Germany,DE,2024,55800
+Greece,GR,2015,17981
+Greece,GR,2016,17919
+Greece,GR,2017,18632
+Greece,GR,2018,19873
+Greece,GR,2019,19335
+Greece,GR,2020,17887
+Greece,GR,2021,20655
+Greece,GR,2022,20972
+Greece,GR,2023,23401
+Greece,GR,2024,24752
+Hungary,HU,2015,12783
+Hungary,HU,2016,13216
+Hungary,HU,2017,14736
+Hungary,HU,2018,16605
+Hungary,HU,2019,17013
+Hungary,HU,2020,16387
+Hungary,HU,2021,19031
+Hungary,HU,2022,18484
+Hungary,HU,2023,22312
+Hungary,HU,2024,23311
+Iceland,IS,2015,52952
+Iceland,IS,2016,61988
+Iceland,IS,2017,72010
+Iceland,IS,2018,74452
+Iceland,IS,2019,68452
+Iceland,IS,2020,59024
+Iceland,IS,2021,69178
+Iceland,IS,2022,75121
+Iceland,IS,2023,79960
+Iceland,IS,2024,82704
+Ireland,IE,2015,64312
+Ireland,IE,2016,64193
+Ireland,IE,2017,72198
+Ireland,IE,2018,80739
+Ireland,IE,2019,81810
+Ireland,IE,2020,86623
+Ireland,IE,2021,103962
+Ireland,IE,2022,105235
+Ireland,IE,2023,103888
+Ireland,IE,2024,107316
+Italy,IT,2015,30640
+Italy,IT,2016,31392
+Italy,IT,2017,32844
+Italy,IT,2018,34904
+Italy,IT,2019,33813
+Italy,IT,2020,32091
+Italy,IT,2021,36853
+Italy,IT,2022,35654
+Italy,IT,2023,39065
+Italy,IT,2024,40226
+Latvia,LV,2015,13322
+Latvia,LV,2016,13839
+Latvia,LV,2017,15132
+Latvia,LV,2018,17252
+Latvia,LV,2019,17295
+Latvia,LV,2020,17564
+Latvia,LV,2021,20262
+Latvia,LV,2022,20227
+Latvia,LV,2023,22676
+Latvia,LV,2024,23368
+Lithuania,LT,2015,14270
+Lithuania,LT,2016,14934
+Lithuania,LT,2017,16800
+Lithuania,LT,2018,19247
+Lithuania,LT,2019,19609
+Lithuania,LT,2020,20429
+Lithuania,LT,2021,23870
+Lithuania,LT,2022,25086
+Lithuania,LT,2023,27786
+Lithuania,LT,2024,29386
+Luxembourg,LU,2015,105462
+Luxembourg,LU,2016,106899
+Luxembourg,LU,2017,110193
+Luxembourg,LU,2018,116927
+Luxembourg,LU,2019,112697
+Luxembourg,LU,2020,116860
+Luxembourg,LU,2021,134966
+Luxembourg,LU,2022,123720
+Luxembourg,LU,2023,131408
+Luxembourg,LU,2024,137517
+Malta,MT,2015,25530
+Malta,MT,2016,26459
+Malta,MT,2017,30317
+Malta,MT,2018,33382
+Malta,MT,2019,32422
+Malta,MT,2020,31834
+Malta,MT,2021,38065
+Malta,MT,2022,36224
+Malta,MT,2023,40182
+Malta,MT,2024,42347
+Moldova,MD,2015,2750
+Moldova,MD,2016,2847
+Moldova,MD,2017,3453
+Moldova,MD,2018,4156
+Moldova,MD,2019,4405
+Moldova,MD,2020,4376
+Moldova,MD,2021,5275
+Moldova,MD,2022,5744
+Moldova,MD,2023,6800
+Moldova,MD,2024,7618
+Montenegro,ME,2015,6491
+Montenegro,ME,2016,6999
+Montenegro,ME,2017,7758
+Montenegro,ME,2018,8791
+Montenegro,ME,2019,8842
+Montenegro,ME,2020,7613
+Montenegro,ME,2021,9377
+Montenegro,ME,2022,9990
+Montenegro,ME,2023,12077
+Montenegro,ME,2024,12935
+Netherlands,NL,2015,45794
+Netherlands,NL,2016,46809
+Netherlands,NL,2017,49514
+Netherlands,NL,2018,53955
+Netherlands,NL,2019,53555
+Netherlands,NL,2020,53468
+Netherlands,NL,2021,60142
+Netherlands,NL,2022,59123
+Netherlands,NL,2023,64572
+Netherlands,NL,2024,68219
+North Macedonia,MK,2015,5263
+North Macedonia,MK,2016,5598
+North Macedonia,MK,2017,5955
+North Macedonia,MK,2018,6714
+North Macedonia,MK,2019,6719
+North Macedonia,MK,2020,6660
+North Macedonia,MK,2021,7621
+North Macedonia,MK,2022,7606
+North Macedonia,MK,2023,8624
+North Macedonia,MK,2024,9310
+Norway,NO,2015,74810
+Norway,NO,2016,70867
+Norway,NO,2017,76132
+Norway,NO,2018,82793
+Norway,NO,2019,76431
+Norway,NO,2020,68340
+Norway,NO,2021,93073
+Norway,NO,2022,109270
+Norway,NO,2023,87497
+Norway,NO,2024,86810
+Poland,PL,2015,12638
+Poland,PL,2016,12464
+Poland,PL,2017,13913
+Poland,PL,2018,15658
+Poland,PL,2019,15875
+Poland,PL,2020,16151
+Poland,PL,2021,18636
+Poland,PL,2022,18891
+Poland,PL,2023,22145
+Poland,PL,2024,25023
+Portugal,PT,2015,19216
+Portugal,PT,2016,19980
+Portugal,PT,2017,21442
+Portugal,PT,2018,23541
+Portugal,PT,2019,23343
+Portugal,PT,2020,22299
+Portugal,PT,2021,24711
+Portugal,PT,2022,24621
+Portugal,PT,2023,27386
+Portugal,PT,2024,28844
+Romania,RO,2015,8977
+Romania,RO,2016,9405
+Romania,RO,2017,10728
+Romania,RO,2018,12502
+Romania,RO,2019,12992
+Romania,RO,2020,13082
+Romania,RO,2021,14987
+Romania,RO,2022,15558
+Romania,RO,2023,18404
+Romania,RO,2024,20072
+Russian Federation,RU,2015,9278
+Russian Federation,RU,2016,8663
+Russian Federation,RU,2017,10659
+Russian Federation,RU,2018,11212
+Russian Federation,RU,2019,11448
+Russian Federation,RU,2020,10108
+Russian Federation,RU,2021,12425
+Russian Federation,RU,2022,15620
+Russian Federation,RU,2023,14159
+Russian Federation,RU,2024,14889
+Serbia,RS,2015,5820
+Serbia,RS,2016,5982
+Serbia,RS,2017,6548
+Serbia,RS,2018,7560
+Serbia,RS,2019,7756
+Serbia,RS,2020,8099
+Serbia,RS,2021,9681
+Serbia,RS,2022,10023
+Serbia,RS,2023,12282
+Serbia,RS,2024,13524
+Slovak Republic,SK,2015,16442
+Slovak Republic,SK,2016,16636
+Slovak Republic,SK,2017,17646
+Slovak Republic,SK,2018,19573
+Slovak Republic,SK,2019,19406
+Slovak Republic,SK,2020,19735
+Slovak Republic,SK,2021,22132
+Slovak Republic,SK,2022,21335
+Slovak Republic,SK,2023,24674
+Slovak Republic,SK,2024,26148
+Slovenia,SI,2015,20697
+Slovenia,SI,2016,21448
+Slovenia,SI,2017,23303
+Slovenia,SI,2018,25888
+Slovenia,SI,2019,25814
+Slovenia,SI,2020,25392
+Slovenia,SI,2021,29187
+Slovenia,SI,2022,28374
+Slovenia,SI,2023,32610
+Slovenia,SI,2024,34089
+Spain,ES,2015,25982
+Spain,ES,2016,26756
+Spain,ES,2017,28381
+Spain,ES,2018,30602
+Spain,ES,2019,29787
+Spain,ES,2020,27234
+Spain,ES,2021,30799
+Spain,ES,2022,30270
+Spain,ES,2023,33509
+Spain,ES,2024,35297
+Sweden,SE,2015,51198
+Sweden,SE,2016,51820
+Sweden,SE,2017,53301
+Sweden,SE,2018,54182
+Sweden,SE,2019,51773
+Sweden,SE,2020,52654
+Sweden,SE,2021,61175
+Sweden,SE,2022,55297
+Sweden,SE,2023,55567
+Sweden,SE,2024,57723
+Switzerland,CH,2015,83806
+Switzerland,CH,2016,82153
+Switzerland,CH,2017,82254
+Switzerland,CH,2018,85217
+Switzerland,CH,2019,84122
+Switzerland,CH,2020,85898
+Switzerland,CH,2021,93665
+Switzerland,CH,2022,94395
+Switzerland,CH,2023,100632
+Switzerland,CH,2024,103670
+Ukraine,UA,2015,2094
+Ukraine,UA,2016,2158
+Ukraine,UA,2017,2604
+Ukraine,UA,2018,3059
+Ukraine,UA,2019,3620
+Ukraine,UA,2020,3710
+Ukraine,UA,2021,4776
+Ukraine,UA,2022,4200
+Ukraine,UA,2023,5140
+Ukraine,UA,2024,5389
+United Kingdom,GB,2015,44984
+United Kingdom,GB,2016,40988
+United Kingdom,GB,2017,40629
+United Kingdom,GB,2018,43315
+United Kingdom,GB,2019,42794
+United Kingdom,GB,2020,40405
+United Kingdom,GB,2021,46926
+United Kingdom,GB,2022,46063
+United Kingdom,GB,2023,49201
+United Kingdom,GB,2024,52637
