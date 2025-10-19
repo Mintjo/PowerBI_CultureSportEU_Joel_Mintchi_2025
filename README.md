@@ -19,28 +19,6 @@ Ce projet s’inscrit dans une démarche analytique complète en trois étapes :
 
 Il mobilise des sources internationales, des techniques de traitement de données avancées et une narration visuelle rigoureuse pour éclairer les politiques publiques européennes.
 
----
-
-## 📁 Structure du dépôt
-
-```
-CultureSportImpactEU/
-├── data/                      # Données brutes et nettoyées
-│   ├── raw/                  # Sources originales
-│   └── processed/            # Dataset consolidé
-├── notebooks/                # Scripts Python
-│   ├── 01_collecte.ipynb     # Tâche 1 : collecte & nettoyage
-│   └── 02_analyse.ipynb      # Tâche 2 : exploration & indicateurs
-├── dashboard/                # Fichier Power BI (.pbix)
-├── docs/                     # Rapport, annexes, documentation
-│   └── rapport_synthese.pdf
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
-
 ## 🧪 Tâche 1 : Collecte & Préparation des Données
 
 ### 🎯 Objectif
@@ -101,7 +79,15 @@ Créer un tableau de bord interactif permettant aux décideurs d’identifier de
 - Fichier Power BI : `dashboard/CultureSportImpactEU.pbix`
 - Rapport synthèse : `docs/rapport_synthese.pdf`
 
----
+## 📊 Tableau de bord Power BI
+
+Voici un aperçu de mon tableau de bord :
+
+![Vue 1](https://github.com/Mintjo/PowerBI_CultureSportEU_Joel_Mintchi_2025/blob/main/Dashboard/Captures_Fichiers_Taches_3_page-0001.jpg)
+![Vue 2](https://github.com/Mintjo/PowerBI_CultureSportEU_Joel_Mintchi_2025/blob/main/Dashboard/Captures_Fichiers_Taches_3_page-0002.jpg)
+![Vue 3](https://github.com/Mintjo/PowerBI_CultureSportEU_Joel_Mintchi_2025/blob/main/Dashboard/Captures_Fichiers_Taches_3_page-0003.jpg)
+![Vue 3](https://github.com/Mintjo/PowerBI_CultureSportEU_Joel_Mintchi_2025/blob/main/Dashboard/Captures_Fichiers_Taches_3_page-0004.jpg)
+
 
 ## 📬 Contact
 
