@@ -92,6 +92,6 @@ Voici un aperçu de mon tableau de bord :
 ## 📬 Contact
 
 **Joel Mintchi**  
-📧 Mintchijo@email.com  
-📍 Cotonou, Bénin
+📧 Mintchijo@gmail.com  
+
 
